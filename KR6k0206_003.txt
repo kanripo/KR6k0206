@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:19.410585
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:39
 #+TITLE: 法界聖凡水陸大齋法輪寶懺
 #+PROPERTY: CBETA_ID X74n1499
 #+PROPERTY: ID KR6k0206
